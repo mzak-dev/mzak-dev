@@ -1,9 +1,15 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**Dziq-official/Dziq-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I wanted to show off my previous projects here but i think everything that i'm working on
+### is more interesting than this.
+---
 
-Here are some ideas to get you started:
+| Languages |     |
+| --------- | --- |
+|           |     |
+
+🔭 I’m currently working on modern alternative to default music and video player on windows and linux 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
