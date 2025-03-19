@@ -6,9 +6,11 @@
 
 | Languages |     |
 | --------- | --- |
-|           |     |
+|      Vue     |     |
+|      Typescript     |     |
+|      C#     |     |
 
-🔭 I’m currently working on modern alternative to default music and video player on windows and linux 
+🔭 I’m currently working on online radio station listening app
 
 
 <!-- -⚡ Fun fact: ...
