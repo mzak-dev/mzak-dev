@@ -24,7 +24,7 @@ Tools: Git, Github, JetBrains suite and many more frameworks/tools
 | Language | Knowledge |
 |:-----:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> | Basic |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/angular-original.svg" width="40" height="40" /> | Basic |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> | Intermediate |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> | Advanced |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | Basic |
