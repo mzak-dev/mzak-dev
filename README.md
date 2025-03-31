@@ -6,7 +6,7 @@ This is the place where i will share my project/experiments and everything else.
 
 🎓 Computer Science student
 
-💻 Making (mostly) good quality software 
+💻 Making good looking software 
 
 🚀 The ability to create anything out of plain code truly fascinates me.
 
@@ -14,9 +14,9 @@ This is the place where i will share my project/experiments and everything else.
 
 Programming Languages: C# (Main lang) and few more listed below
 
-Areas of interest: app creation, low level app programming, optimizing apps to run faster, ui development and design
+Areas of interest: app creation, low level app programming, ui development and design
 
-Tools: Git, Github, JetBrains suite and many more frameworks/tools
+Tools: Git, Github, JetBrains suite, Angular CLI, .NET, nodeJS and a few more
 
 
 ## Languages i know:
@@ -31,10 +31,10 @@ Tools: Git, Github, JetBrains suite and many more frameworks/tools
 
 My top languages in projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dziq-official&hide=html,css&langs_count=6&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzak-dev&hide=html,css&langs_count=6&layout=compact&theme=radical)
 
 
-🔭 I’m currently working on app to easily listen to online radio stations in one place
+🔭 Currently working on music/online radio listening app
 
 
 <!-- -⚡ Fun fact: ...
